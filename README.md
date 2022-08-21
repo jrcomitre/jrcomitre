@@ -4,7 +4,7 @@
 Software Developer
 -----------------------------
 
-My name is Gilberto from Brazil (🇧🇷). I've been studing since 2020 and working as Front-End Developer since 2022 and currently I'm working at chemical company. 
+My name is Gilberto from Brazil (🇧🇷). I've been studing since 2020 and working as developer since 2022 and currently I'm working at chemical company. 
 
 I passionate to code and create new stuff, i like too much to discover new technologies and dive deep in solving problems.
 
