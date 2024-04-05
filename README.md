@@ -33,7 +33,7 @@ src="https://img.shields.io/github/followers/jrcomitre?logo=github&style=for-the
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" width="36" height="36" alt="MySql" /></a>
+<!-- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" width="36" height="36" alt="MySql" /></a> -->
 <a href="https://www.adobe.com/br/products/photoshop/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="36" height="36" alt="Photoshop" /></a>
 
 </p>
@@ -48,7 +48,7 @@ src="https://img.shields.io/github/followers/jrcomitre?logo=github&style=for-the
 
 <!--<a href="http://www.github.com/jrcomitre"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=jrcomitre&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="jr comitre GitHub stats" /></a>-->
 
-<a href="http://www.github.com/jrcomitre"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jrcomitre&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<!--<a href="http://www.github.com/jrcomitre"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jrcomitre&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>-->
 
 <!--<a href="http://www.github.com/jrcomitre"><img src="https://activity-graph.herokuapp.com/graph?username=jrcomitre&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>-->
 
