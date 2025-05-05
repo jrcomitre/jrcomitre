@@ -15,8 +15,8 @@ Since 2020, I've been deeply involved in learning technology, and I’ve been wo
 * 🏋️‍♂️  I'm passionate about sports – discipline and resilience are part of both my personal and professional journey.
 * ✉️  You can contact me at [gcomitrejr@gmail.com](mailto:gcomitrejr@gmail.com)
 
-<a href="https://www.github.com/jrcomitre" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/jrcomitre?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
+<!-- <a href="https://www.github.com/jrcomitre" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/jrcomitre?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a> -->
 
 ### Languages
 
