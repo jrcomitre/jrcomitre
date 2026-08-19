@@ -1,4 +1,4 @@
-# Hi, I'm Gilberto Comitre Jr 👋
+# Hi, I'm Gilberto Comitre Jr
 
 ### Senior Data Analyst | BI & Analytics | Power BI | SQL | Python | Azure | Databricks
 
@@ -6,7 +6,7 @@ I'm a Senior Data Analyst with experience in Business Intelligence, Data Analyti
 
 I specialize in transforming data into actionable insights, developing analytical solutions, and supporting business decisions through data.
 
-### 🛠️ Technologies & Tools
+###  Technologies & Tools
 
 - **Analytics & BI:** Power BI, DAX, Data Modeling
 - **Programming:** Python, Pandas, PySpark
@@ -15,7 +15,7 @@ I specialize in transforming data into actionable insights, developing analytica
 - **Data Engineering:** ETL/ELT, Data Pipelines, Delta Lake
 - **Data Analysis:** Exploratory Data Analysis, Statistical Analysis, Data Visualization
 
-### 📊 Featured Projects
+###  Featured Projects
 
 🔹 [Credit Card Fraud Detection](https://github.com/jrcomitre/credit-card-fraud-detection)  
 Analysis and machine learning approach for detecting fraudulent credit card transactions, including data exploration, class imbalance treatment, SMOTE, and PCA.
@@ -26,7 +26,7 @@ Time series analysis and forecasting applied to website user data.
 🔹 [The Most Popular Songs of 2023](https://github.com/jrcomitre/The-Most-Popular-Songs-of-2023)  
 Exploratory data analysis of popular songs using Python and Pandas.
 
-### 🎯 Professional Focus
+###  Professional Focus
 
 - Business Intelligence & Analytics
 - Data-driven decision making
@@ -35,7 +35,7 @@ Exploratory data analysis of popular songs using Python and Pandas.
 - Data analysis and automation
 - Modern data solutions
 
-### 📫 Connect with me
+###  Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/gilbertocomitrejr/)
 - [GitHub](https://github.com/jrcomitre)
